@@ -5,6 +5,8 @@ import { Routes, Route } from 'react-router-dom';
 import MovieList from './pages/MovieList.jsx'; 
 import MovieDetails from './pages/MovieDetails.jsx'; 
 import MovieForm from './components/MovieForm.jsx'; // Oletetaan components-kansiossa
+/ LISÄÄ TÄMÄ RIVI
+import './App.css';
 
 function App() {
   return (
